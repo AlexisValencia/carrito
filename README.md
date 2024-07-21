@@ -2,11 +2,11 @@
 El proyecto se realizará con Node JS, Mysql, Express
 ->	Creamos la carpeta para el proyecto -> mkdir carrito
 ->	Instalamos aquello que sea necesario para el funcionamiento correcto.
-*	npm install npm@latest
-*	npm install node@latest
-*	npm init –y para inicializar el package JSON de la aplicación
-*	npm i cors express dotenv promise-mysql
-*	npm nodemon morgan –save-dev
+*	```npm install npm@latest```
+*	```npm install node@latest```
+*	```npm init –y``` para inicializar el package JSON de la aplicación
+*	```npm i cors express dotenv promise-mysql```
+*	```npm nodemon morgan –save-dev```
 
 ```
 {
